@@ -1,0 +1,14 @@
+{
+  "name": "temp-test",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "testFigmaApi": "mocha",
+    "getFigmaVariables": "node figmaApi/index.mjs"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0",
+    "node-fetch": "^3.3.2"
+  }
+}
