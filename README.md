@@ -19,7 +19,7 @@ The API creates an object with properties grouped by mode (like "Light Mode", "D
 Use the generated file by importing it at the top of your code, then call the properties like this:
 
 ```js
-import designTokens from 'figmaApi/generated/designTokens.js';
+import designTokens from 'generated/designTokens.js';
 
 const bgColor = designTokens['Light Mode']['Brand/Primary'];
 const textColor = designTokens['Light Mode']['Brand/Secondary'];
@@ -126,7 +126,7 @@ npm install --include=dev
     {
         "name": "Generate Figma Variables",
         "type": "node",
-        "program": "${workspaceFolder}${/}figmaApi${/}index.mjs",
+        "program": "${workspaceFolder}${/}index.mjs",
         "request": "launch",
         "internalConsoleOptions": "openOnSessionStart",
         "skipFiles": [
