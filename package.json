@@ -1,0 +1,15 @@
+{
+  "name": "figma-variables-api",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "testFigmaApi": "mocha",
+    "getFigmaVariables": "node index.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}

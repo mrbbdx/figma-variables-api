@@ -1,0 +1,3288 @@
+{
+  "variables": [
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54944:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Basic-White)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54944:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54944:25136",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Basic-Black)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54944:25136",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25141",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Basic-Disabled-Grey)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25141",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25144",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Basic-Accessibility-Blue)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25144",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-1",
+      "name": "Taupe/10",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-10)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-2",
+      "name": "Taupe/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-3",
+      "name": "Taupe/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-4",
+      "name": "Taupe/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-5",
+      "name": "Taupe/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-6",
+      "name": "Taupe/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-7",
+      "name": "Taupe/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25151",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25151",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25152",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Taupe-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25152",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-8",
+      "name": "Chartreuse/10",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-10)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-9",
+      "name": "Chartreuse/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-10",
+      "name": "Chartreuse/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-11",
+      "name": "Chartreuse/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-12",
+      "name": "Chartreuse/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-13",
+      "name": "Chartreuse/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-14",
+      "name": "Chartreuse/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25154",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25154",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25156",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Chartreuse-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25156",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-15",
+      "name": "Cobalt/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-16",
+      "name": "Cobalt/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-17",
+      "name": "Cobalt/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-18",
+      "name": "Cobalt/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-19",
+      "name": "Cobalt/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-20",
+      "name": "Cobalt/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54836:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54836:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54820:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54820:25136",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Cobalt-10)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54820:25136",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54820:25137",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-10)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25153",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54948:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-30)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54948:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54820:25139",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-21",
+      "name": "Slate/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-22",
+      "name": "Slate/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-23",
+      "name": "Slate/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25168",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54820:25140",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Slate-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-24",
+      "name": "Emerald/10",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-10)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-25",
+      "name": "Emerald/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-26",
+      "name": "Emerald/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-27",
+      "name": "Emerald/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-28",
+      "name": "Emerald/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-29",
+      "name": "Emerald/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-30",
+      "name": "Emerald/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25137",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25137",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25138",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Emerald-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25138",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-31",
+      "name": "Crimson/10",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-10)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-32",
+      "name": "Crimson/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-33",
+      "name": "Crimson/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-34",
+      "name": "Crimson/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-35",
+      "name": "Crimson/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-36",
+      "name": "Crimson/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-37",
+      "name": "Crimson/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25139",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25139",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25140",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Crimson-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25140",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-38",
+      "name": "Avocado/10",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-10)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-39",
+      "name": "Avocado/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-40",
+      "name": "Avocado/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-41",
+      "name": "Avocado/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-42",
+      "name": "Avocado/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-43",
+      "name": "Avocado/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-44",
+      "name": "Avocado/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25149",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25149",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-font-family-serif)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25136",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-font-family-sans-serif)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25136",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25137",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-transformation-uppercase)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25137",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25138",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-weight-light)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25138",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25141",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-weight-regular)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25141",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25142",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-weight-medium)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54835:25142",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-size-xs)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25136",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-size-s)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25136",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25137",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-size-m)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25137",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25138",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-size-l)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25138",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25139",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-size-xl)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25139",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25140",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Font-size-xxl)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54922:25140",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54859:114",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-test-bool-f)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54859:114",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-45",
+      "name": "Saffron/10",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-10)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-46",
+      "name": "Saffron/30",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-30)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-47",
+      "name": "Saffron/40",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-40)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-48",
+      "name": "Saffron/60",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-60)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-49",
+      "name": "Saffron/70",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-70)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-50",
+      "name": "Saffron/80",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-80)"
+      }
+    },
+    {
+      "action": "CREATE",
+      "id": "figmaTempId-51",
+      "name": "Saffron/90",
+      "variableCollectionId": "VariableCollectionId:54795:1750",
+      "resolvedType": "COLOR",
+      "hiddenFromPublishing": true,
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-90)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25141",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-50)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25141",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25142",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Saffron-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25142",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54859:115",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-test-bool-t)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54859:115",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25150",
+      "codeSyntax": {
+        "WEB": "var(--DT-__primitive-Avocado-20)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25150",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54912:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Brand-Primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54912:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54912:25136",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Brand-Secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54912:25136",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25183",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Focus-Focus)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25183",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25171",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Neutral-Fill)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25171",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25172",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Neutral-Hover)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25172",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25173",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Neutral-Line)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25173",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25174",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Neutral-Text)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25174",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25169",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Accent-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25169",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25170",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Accent-secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25170",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25135",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Disabled-brand-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25135",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25136",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Disabled-brand-secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25136",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25137",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Disabled-grey-2)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25137",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25138",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Disabled-grey-3)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25138",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25139",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Disabled-grey-text)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25139",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25140",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Disabled-accent-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25140",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25179",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Warning-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25179",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25180",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Warning-secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25180",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25177",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Error-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25177",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25178",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Error-secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25178",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25175",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Success-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25175",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25176",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Success-secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25176",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25142",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-large-primary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25142",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25143",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-large-primary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25143",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25144",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-large-primary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25144",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25146",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-large-secondary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25146",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25196",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-large-secondary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25196",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25197",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-large-secondary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25197",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25147",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-primary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25147",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25163",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-primary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25163",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25164",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-primary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25164",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25148",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-secondary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25148",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25165",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-secondary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25165",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25166",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-title-secondary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25166",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25149",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-headline-primary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25149",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25167",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-headline-primary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25167",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25170",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-headline-primary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25170",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25150",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-headline-secondary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25150",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25168",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-headline-secondary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25168",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25169",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-headline-secondary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25169",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25151",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-callout-primary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25151",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25171",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-callout-primary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25171",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25172",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-callout-primary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25172",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25152",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-subheading-primary-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25152",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25173",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-subheading-primary-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25173",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25174",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-subheading-primary-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25174",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25200",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-subheading-primary-transformation)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25200",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25153",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-large-regular-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25153",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25175",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-large-regular-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25175",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25176",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-large-regular-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25176",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25154",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-large-light-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25154",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25177",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-large-light-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25177",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25178",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-large-light-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25178",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25155",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-regular-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25155",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25179",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-regular-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25179",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25180",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-regular-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25180",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25156",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-light-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25156",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25181",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-light-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25181",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25182",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-light-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25182",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25157",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-small-regular-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25157",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25183",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-small-regular-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25183",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25184",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-small-regular-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25184",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25158",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-small-light-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25158",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25185",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-small-light-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25185",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25186",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-body-small-light-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25186",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25159",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-regular-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25159",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25187",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-regular-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25187",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25188",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-regular-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25188",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25160",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-light-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25160",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25189",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-light-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25189",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25190",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-light-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25190",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25161",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-small-regular-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25161",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25191",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-small-regular-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25191",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25192",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-small-regular-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25192",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25162",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-small-light-size)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25162",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25193",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-small-light-weight)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25193",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25194",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-text-data-grid-small-light-typeface)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54923:25194",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25181",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Info-primary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25181",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25182",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Info-secondary)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25182",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25148",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-1)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25148",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25158",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-2)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25158",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25160",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-3)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25160",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25162",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-4)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25162",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25164",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-5)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25164",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25166",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-6)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25166",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25157",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-7)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25157",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25159",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-8)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25159",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25161",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-9)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25161",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25163",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-10)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25163",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25165",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-11)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25165",
+      "hiddenFromPublishing": true
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25167",
+      "codeSyntax": {
+        "WEB": "var(--DT-Light-Mode-Charting-12)"
+      }
+    },
+    {
+      "action": "UPDATE",
+      "id": "VariableID:54823:25167",
+      "hiddenFromPublishing": true
+    }
+  ],
+  "variableModeValues": [
+    {
+      "variableId": "figmaTempId-1",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.9529411792755127,
+        "g": 0.9231372594833374,
+        "b": 0.8941176474094391
+      }
+    },
+    {
+      "variableId": "figmaTempId-1",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.9529411792755127,
+        "g": 0.9231372594833374,
+        "b": 0.8941176474094391
+      }
+    },
+    {
+      "variableId": "figmaTempId-2",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8588235378265381,
+        "g": 0.7694117784500122,
+        "b": 0.6823529422283172
+      }
+    },
+    {
+      "variableId": "figmaTempId-2",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.8588235378265381,
+        "g": 0.7694117784500122,
+        "b": 0.6823529422283172
+      }
+    },
+    {
+      "variableId": "figmaTempId-3",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8117647171020508,
+        "g": 0.6925490379333497,
+        "b": 0.5764705896377563
+      }
+    },
+    {
+      "variableId": "figmaTempId-3",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.8117647171020508,
+        "g": 0.6925490379333497,
+        "b": 0.5764705896377563
+      }
+    },
+    {
+      "variableId": "figmaTempId-4",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.6117647171020508,
+        "g": 0.4925490379333496,
+        "b": 0.37647058963775637
+      }
+    },
+    {
+      "variableId": "figmaTempId-4",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.6117647171020508,
+        "g": 0.4925490379333496,
+        "b": 0.37647058963775637
+      }
+    },
+    {
+      "variableId": "figmaTempId-5",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.45882353782653806,
+        "g": 0.36941177845001216,
+        "b": 0.28235294222831725
+      }
+    },
+    {
+      "variableId": "figmaTempId-5",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.45882353782653806,
+        "g": 0.36941177845001216,
+        "b": 0.28235294222831725
+      }
+    },
+    {
+      "variableId": "figmaTempId-6",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.3058823585510254,
+        "g": 0.2462745189666748,
+        "b": 0.18823529481887818
+      }
+    },
+    {
+      "variableId": "figmaTempId-6",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.3058823585510254,
+        "g": 0.2462745189666748,
+        "b": 0.18823529481887818
+      }
+    },
+    {
+      "variableId": "figmaTempId-7",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.15294117927551265,
+        "g": 0.12313725948333737,
+        "b": 0.09411764740943906
+      }
+    },
+    {
+      "variableId": "figmaTempId-7",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.15294117927551265,
+        "g": 0.12313725948333737,
+        "b": 0.09411764740943906
+      }
+    },
+    {
+      "variableId": "figmaTempId-8",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.929411768913269,
+        "g": 0.9607843160629272,
+        "b": 0.8282352954149247
+      }
+    },
+    {
+      "variableId": "figmaTempId-8",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.929411768913269,
+        "g": 0.9607843160629272,
+        "b": 0.8282352954149247
+      }
+    },
+    {
+      "variableId": "figmaTempId-9",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.7882353067398071,
+        "g": 0.8823529481887817,
+        "b": 0.4847058862447739
+      }
+    },
+    {
+      "variableId": "figmaTempId-9",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.7882353067398071,
+        "g": 0.8823529481887817,
+        "b": 0.4847058862447739
+      }
+    },
+    {
+      "variableId": "figmaTempId-10",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.7176470756530762,
+        "g": 0.843137264251709,
+        "b": 0.31294118165969853
+      }
+    },
+    {
+      "variableId": "figmaTempId-10",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.7176470756530762,
+        "g": 0.843137264251709,
+        "b": 0.31294118165969853
+      }
+    },
+    {
+      "variableId": "figmaTempId-11",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.5176470756530762,
+        "g": 0.643137264251709,
+        "b": 0.11294118165969849
+      }
+    },
+    {
+      "variableId": "figmaTempId-11",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.5176470756530762,
+        "g": 0.643137264251709,
+        "b": 0.11294118165969849
+      }
+    },
+    {
+      "variableId": "figmaTempId-12",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.3882353067398071,
+        "g": 0.4823529481887817,
+        "b": 0.08470588624477386
+      }
+    },
+    {
+      "variableId": "figmaTempId-12",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.3882353067398071,
+        "g": 0.4823529481887817,
+        "b": 0.08470588624477386
+      }
+    },
+    {
+      "variableId": "figmaTempId-13",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.2588235378265381,
+        "g": 0.3215686321258545,
+        "b": 0.056470590829849246
+      }
+    },
+    {
+      "variableId": "figmaTempId-13",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.2588235378265381,
+        "g": 0.3215686321258545,
+        "b": 0.056470590829849246
+      }
+    },
+    {
+      "variableId": "figmaTempId-14",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.129411768913269,
+        "g": 0.1607843160629272,
+        "b": 0.028235295414924616
+      }
+    },
+    {
+      "variableId": "figmaTempId-14",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.129411768913269,
+        "g": 0.1607843160629272,
+        "b": 0.028235295414924616
+      }
+    },
+    {
+      "variableId": "VariableID:54823:25156",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8588235378265381,
+        "g": 0.9215686321258545,
+        "b": 0.6564705908298493
+      }
+    },
+    {
+      "variableId": "figmaTempId-15",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.4,
+        "g": 0.6352941215038299,
+        "b": 0.7435294270515442
+      }
+    },
+    {
+      "variableId": "figmaTempId-15",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.4,
+        "g": 0.6352941215038299,
+        "b": 0.7435294270515442
+      }
+    },
+    {
+      "variableId": "figmaTempId-16",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.2,
+        "g": 0.5137254953384399,
+        "b": 0.6580392360687256
+      }
+    },
+    {
+      "variableId": "figmaTempId-16",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.2,
+        "g": 0.5137254953384399,
+        "b": 0.6580392360687256
+      }
+    },
+    {
+      "variableId": "figmaTempId-17",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.31372549533843996,
+        "b": 0.4580392360687256
+      }
+    },
+    {
+      "variableId": "figmaTempId-17",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.31372549533843996,
+        "b": 0.4580392360687256
+      }
+    },
+    {
+      "variableId": "figmaTempId-18",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.23529412150382994,
+        "b": 0.3435294270515442
+      }
+    },
+    {
+      "variableId": "figmaTempId-18",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.23529412150382994,
+        "b": 0.3435294270515442
+      }
+    },
+    {
+      "variableId": "figmaTempId-19",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.15686274766921998,
+        "b": 0.22901961803436283
+      }
+    },
+    {
+      "variableId": "figmaTempId-19",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.15686274766921998,
+        "b": 0.22901961803436283
+      }
+    },
+    {
+      "variableId": "figmaTempId-20",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.07843137383460996,
+        "b": 0.11450980901718139
+      }
+    },
+    {
+      "variableId": "figmaTempId-20",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0,
+        "g": 0.07843137383460996,
+        "b": 0.11450980901718139
+      }
+    },
+    {
+      "variableId": "VariableID:54823:25153",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.9168627500534058,
+        "g": 0.9231372594833374,
+        "b": 0.9372549057006836
+      }
+    },
+    {
+      "variableId": "VariableID:54823:25153",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.9168627500534058,
+        "g": 0.9231372594833374,
+        "b": 0.9372549057006836
+      }
+    },
+    {
+      "variableId": "figmaTempId-21",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.6337255001068115,
+        "g": 0.6462745189666748,
+        "b": 0.6745098114013672
+      }
+    },
+    {
+      "variableId": "figmaTempId-21",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.6337255001068115,
+        "g": 0.6462745189666748,
+        "b": 0.6745098114013672
+      }
+    },
+    {
+      "variableId": "figmaTempId-22",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.3168627500534058,
+        "g": 0.32313725948333744,
+        "b": 0.3372549057006836
+      }
+    },
+    {
+      "variableId": "figmaTempId-22",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.3168627500534058,
+        "g": 0.32313725948333744,
+        "b": 0.3372549057006836
+      }
+    },
+    {
+      "variableId": "figmaTempId-23",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.1584313750267028,
+        "g": 0.16156862974166863,
+        "b": 0.16862745285034175
+      }
+    },
+    {
+      "variableId": "figmaTempId-23",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.1584313750267028,
+        "g": 0.16156862974166863,
+        "b": 0.16862745285034175
+      }
+    },
+    {
+      "variableId": "figmaTempId-24",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8211764708161354,
+        "g": 0.8737254917621613,
+        "b": 0.8721568644046783
+      }
+    },
+    {
+      "variableId": "figmaTempId-24",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.8211764708161354,
+        "g": 0.8737254917621613,
+        "b": 0.8721568644046783
+      }
+    },
+    {
+      "variableId": "figmaTempId-25",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.46352941244840623,
+        "g": 0.6211764752864838,
+        "b": 0.6164705932140351
+      }
+    },
+    {
+      "variableId": "figmaTempId-25",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.46352941244840623,
+        "g": 0.6211764752864838,
+        "b": 0.6164705932140351
+      }
+    },
+    {
+      "variableId": "figmaTempId-26",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.2847058832645416,
+        "g": 0.49490196704864503,
+        "b": 0.4886274576187134
+      }
+    },
+    {
+      "variableId": "figmaTempId-26",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.2847058832645416,
+        "g": 0.49490196704864503,
+        "b": 0.4886274576187134
+      }
+    },
+    {
+      "variableId": "figmaTempId-27",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.08470588326454162,
+        "g": 0.294901967048645,
+        "b": 0.2886274576187134
+      }
+    },
+    {
+      "variableId": "figmaTempId-27",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.08470588326454162,
+        "g": 0.294901967048645,
+        "b": 0.2886274576187134
+      }
+    },
+    {
+      "variableId": "figmaTempId-28",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.06352941244840621,
+        "g": 0.22117647528648376,
+        "b": 0.21647059321403503
+      }
+    },
+    {
+      "variableId": "figmaTempId-28",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.06352941244840621,
+        "g": 0.22117647528648376,
+        "b": 0.21647059321403503
+      }
+    },
+    {
+      "variableId": "figmaTempId-29",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.04235294163227081,
+        "g": 0.1474509835243225,
+        "b": 0.1443137288093567
+      }
+    },
+    {
+      "variableId": "figmaTempId-29",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.04235294163227081,
+        "g": 0.1474509835243225,
+        "b": 0.1443137288093567
+      }
+    },
+    {
+      "variableId": "figmaTempId-30",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.021176470816135398,
+        "g": 0.07372549176216125,
+        "b": 0.07215686440467833
+      }
+    },
+    {
+      "variableId": "figmaTempId-30",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.021176470816135398,
+        "g": 0.07372549176216125,
+        "b": 0.07215686440467833
+      }
+    },
+    {
+      "variableId": "figmaTempId-31",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.9513725519180298,
+        "g": 0.8352941185235978,
+        "b": 0.830588236451149
+      }
+    },
+    {
+      "variableId": "figmaTempId-31",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.9513725519180298,
+        "g": 0.8352941185235978,
+        "b": 0.830588236451149
+      }
+    },
+    {
+      "variableId": "figmaTempId-32",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8541176557540894,
+        "g": 0.5058823555707932,
+        "b": 0.49176470935344696
+      }
+    },
+    {
+      "variableId": "figmaTempId-32",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.8541176557540894,
+        "g": 0.5058823555707932,
+        "b": 0.49176470935344696
+      }
+    },
+    {
+      "variableId": "figmaTempId-33",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8054902076721191,
+        "g": 0.3411764740943909,
+        "b": 0.32235294580459595
+      }
+    },
+    {
+      "variableId": "figmaTempId-33",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.8054902076721191,
+        "g": 0.3411764740943909,
+        "b": 0.32235294580459595
+      }
+    },
+    {
+      "variableId": "figmaTempId-34",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.6054902076721191,
+        "g": 0.14117647409439088,
+        "b": 0.12235294580459595
+      }
+    },
+    {
+      "variableId": "figmaTempId-34",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.6054902076721191,
+        "g": 0.14117647409439088,
+        "b": 0.12235294580459595
+      }
+    },
+    {
+      "variableId": "figmaTempId-35",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.45411765575408936,
+        "g": 0.10588235557079315,
+        "b": 0.09176470935344697
+      }
+    },
+    {
+      "variableId": "figmaTempId-35",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.45411765575408936,
+        "g": 0.10588235557079315,
+        "b": 0.09176470935344697
+      }
+    },
+    {
+      "variableId": "figmaTempId-36",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.30274510383605957,
+        "g": 0.07058823704719544,
+        "b": 0.06117647290229798
+      }
+    },
+    {
+      "variableId": "figmaTempId-36",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.30274510383605957,
+        "g": 0.07058823704719544,
+        "b": 0.06117647290229798
+      }
+    },
+    {
+      "variableId": "figmaTempId-37",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.15137255191802979,
+        "g": 0.035294118523597706,
+        "b": 0.030588236451148984
+      }
+    },
+    {
+      "variableId": "figmaTempId-37",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.15137255191802979,
+        "g": 0.035294118523597706,
+        "b": 0.030588236451148984
+      }
+    },
+    {
+      "variableId": "figmaTempId-38",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.8596078455448151,
+        "g": 0.9247058868408203,
+        "b": 0.9090196132659912
+      }
+    },
+    {
+      "variableId": "figmaTempId-38",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.8596078455448151,
+        "g": 0.9247058868408203,
+        "b": 0.9090196132659912
+      }
+    },
+    {
+      "variableId": "figmaTempId-39",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.5788235366344452,
+        "g": 0.7741176605224609,
+        "b": 0.7270588397979736
+      }
+    },
+    {
+      "variableId": "figmaTempId-39",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.5788235366344452,
+        "g": 0.7741176605224609,
+        "b": 0.7270588397979736
+      }
+    },
+    {
+      "variableId": "figmaTempId-40",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.43843138217926025,
+        "g": 0.6988235473632812,
+        "b": 0.6360784530639648
+      }
+    },
+    {
+      "variableId": "figmaTempId-40",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.43843138217926025,
+        "g": 0.6988235473632812,
+        "b": 0.6360784530639648
+      }
+    },
+    {
+      "variableId": "figmaTempId-41",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.23843138217926024,
+        "g": 0.49882354736328127,
+        "b": 0.43607845306396487
+      }
+    },
+    {
+      "variableId": "figmaTempId-41",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.23843138217926024,
+        "g": 0.49882354736328127,
+        "b": 0.43607845306396487
+      }
+    },
+    {
+      "variableId": "figmaTempId-42",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.17882353663444517,
+        "g": 0.3741176605224609,
+        "b": 0.3270588397979736
+      }
+    },
+    {
+      "variableId": "figmaTempId-42",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.17882353663444517,
+        "g": 0.3741176605224609,
+        "b": 0.3270588397979736
+      }
+    },
+    {
+      "variableId": "figmaTempId-43",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.11921569108963012,
+        "g": 0.24941177368164064,
+        "b": 0.21803922653198243
+      }
+    },
+    {
+      "variableId": "figmaTempId-43",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.11921569108963012,
+        "g": 0.24941177368164064,
+        "b": 0.21803922653198243
+      }
+    },
+    {
+      "variableId": "figmaTempId-44",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.05960784554481505,
+        "g": 0.12470588684082029,
+        "b": 0.10901961326599119
+      }
+    },
+    {
+      "variableId": "figmaTempId-44",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.05960784554481505,
+        "g": 0.12470588684082029,
+        "b": 0.10901961326599119
+      }
+    },
+    {
+      "variableId": "figmaTempId-45",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.9890196084976196,
+        "g": 0.9521568655967713,
+        "b": 0.8211764708161354
+      }
+    },
+    {
+      "variableId": "figmaTempId-45",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.9890196084976196,
+        "g": 0.9521568655967713,
+        "b": 0.8211764708161354
+      }
+    },
+    {
+      "variableId": "figmaTempId-46",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.9670588254928589,
+        "g": 0.8564705967903137,
+        "b": 0.46352941244840623
+      }
+    },
+    {
+      "variableId": "figmaTempId-46",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.9670588254928589,
+        "g": 0.8564705967903137,
+        "b": 0.46352941244840623
+      }
+    },
+    {
+      "variableId": "figmaTempId-47",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.9560784339904785,
+        "g": 0.8086274623870849,
+        "b": 0.2847058832645416
+      }
+    },
+    {
+      "variableId": "figmaTempId-47",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.9560784339904785,
+        "g": 0.8086274623870849,
+        "b": 0.2847058832645416
+      }
+    },
+    {
+      "variableId": "figmaTempId-48",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.7560784339904785,
+        "g": 0.608627462387085,
+        "b": 0.08470588326454162
+      }
+    },
+    {
+      "variableId": "figmaTempId-48",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.7560784339904785,
+        "g": 0.608627462387085,
+        "b": 0.08470588326454162
+      }
+    },
+    {
+      "variableId": "figmaTempId-49",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.5670588254928588,
+        "g": 0.4564705967903137,
+        "b": 0.06352941244840621
+      }
+    },
+    {
+      "variableId": "figmaTempId-49",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.5670588254928588,
+        "g": 0.4564705967903137,
+        "b": 0.06352941244840621
+      }
+    },
+    {
+      "variableId": "figmaTempId-50",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.37803921699523924,
+        "g": 0.3043137311935425,
+        "b": 0.04235294163227081
+      }
+    },
+    {
+      "variableId": "figmaTempId-50",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.37803921699523924,
+        "g": 0.3043137311935425,
+        "b": 0.04235294163227081
+      }
+    },
+    {
+      "variableId": "figmaTempId-51",
+      "modeId": "54795:0",
+      "value": {
+        "a": 1,
+        "r": 0.18901960849761956,
+        "g": 0.15215686559677122,
+        "b": 0.021176470816135398
+      }
+    },
+    {
+      "variableId": "figmaTempId-51",
+      "modeId": "54971:2",
+      "value": {
+        "a": 1,
+        "r": 0.18901960849761956,
+        "g": 0.15215686559677122,
+        "b": 0.021176470816135398
+      }
+    }
+  ]
+}
