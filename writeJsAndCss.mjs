@@ -85,7 +85,7 @@ export default class writeJsAndCss {
         let cssFileContent = `:root {
 
     /*
-        Case-Sensitive! Call these like: background-color: var(--DT-Light-Mode-Brand-Primary); 
+        Case-Sensitive! Call these like: background-color: var(--${figma.NAMESPACE}Light-Mode-Brand-Primary); 
     */
 `;
         for (const modeName in cssSemanticModes) {
@@ -94,7 +94,7 @@ export default class writeJsAndCss {
         cssFileContent += `
     /*
         Don't use these! Use a property from above instead. If you absolutely have to use one of these, please discuss with the UX team so they can update their designs.
-        To temporarily unblock yourself, you could call one of these like var(--DT-${figma.PRIMITIVE}-Cobalt-70);
+        To temporarily unblock yourself, you could call one of these like var(--${figma.NAMESPACE}${figma.PRIMITIVE}-Cobalt-70);
     */
 ${cssPrimitiveLines.join('\n')}
 }`;
