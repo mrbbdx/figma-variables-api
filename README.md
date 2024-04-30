@@ -1,6 +1,6 @@
 # Figma Design Token API
 
-API for fetching the UX design tokens from Figma (which they call "Variables"), and generating code that is useable by our design system.
+API for fetching design tokens from Figma (which they call "Variables"), and generating code that is useable by your component library.
 
 Today, this will output the following code:
 - Javascript class
