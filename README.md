@@ -2,11 +2,11 @@
 
 API for fetching design tokens from Figma (which they call "Variables"), and generating code that is useable by your component library.
 
-Today, this will output the following code:
-- Javascript class
+Today, this will output the following files:
+- Javascript immutable object that can be imported
 - CSS
-- Raw JSON of last successful response _from_ Figma
-- Raw JSON of last write payload _to_ Figma
+- Pretty-printed JSON of last successful response _from_ Figma
+- Pretty-printed JSON of last write payload _to_ Figma
 
 
 ## Using The Generated Output
