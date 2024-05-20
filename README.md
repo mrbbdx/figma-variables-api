@@ -12,7 +12,7 @@ Today, this will output the following files:
 ## Using The Generated Output
 
 
-### Javascript Class
+### Javascript Object
 
 The API creates an object with properties grouped by mode (like "Light Mode", "Dark Mode"), then token name. The properties at the top of the generated file represent "semantic" design tokens that should exclusively be used. There are also "primitive" design tokens that could be accessed by the `__primitive` property at the bottom of the file, but they should not ever be needed. If they are, you can use them temporarily to unblock you, but please also have a conversation with the UX team so they can correctly add a semantic design token in Figma, then re-generate this file for you, and update their designs if needed.
 
