@@ -139,7 +139,7 @@ npm install --include=dev
     }
     ```
 
-2. Replace `(flie key)` and `(your PAT)` with the values you got from the instructions above.
+2. Replace `(file key)` and `(your PAT)` with the values you got from the instructions above.
 3. Click "Run and Debug" button on left nav, then run.
 
 
