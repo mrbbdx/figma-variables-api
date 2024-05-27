@@ -1,18 +1,20 @@
 # Figma Design Token API
 
-API for fetching the UX design tokens from Figma (which they call "Variables"), and generating code that is useable by our design system.
+API for fetching the UX design tokens from Figma (which they call "Variables"), and generating color ramps, and code that is useable by your design system.
 
-Today, this will output the following code:
-- Javascript class
+In addition to generating color ramps for any color with a `/50` suffix, this will output the following code:
+- Javascript Object
 - CSS
 - Raw JSON of last successful response _from_ Figma
 - Raw JSON of last write payload _to_ Figma
+
+See examples in the [generated/](generated/) directory.
 
 
 ## Using The Generated Output
 
 
-### Javascript Class
+### Javascript Object
 
 The API creates an object with properties grouped by mode (like "Light Mode", "Dark Mode"), then token name. The properties at the top of the generated file represent "semantic" design tokens that should exclusively be used. There are also "primitive" design tokens that could be accessed by the `__primitive` property at the bottom of the file, but they should not ever be needed. If they are, you can use them temporarily to unblock you, but please also have a conversation with the UX team so they can correctly add a semantic design token in Figma, then re-generate this file for you, and update their designs if needed.
 
