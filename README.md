@@ -1,12 +1,12 @@
 # Figma Design Token API
 
-API for fetching the UX design tokens from Figma (which they call "Variables"), and generating color ramps, and code that is useable by your design system.
+API for fetching design tokens from Figma (which they call "Variables"), and generating color ramps, and code that is useable by your component library.
 
 In addition to generating color ramps for any color with a `/50` suffix, this will output the following code:
-- Javascript Object
+- Javascript immutable object that can be imported
 - CSS
-- Raw JSON of last successful response _from_ Figma
-- Raw JSON of last write payload _to_ Figma
+- Pretty-printed JSON of last successful response _from_ Figma
+- Pretty-printed JSON of last write payload _to_ Figma
 
 See examples in the [generated/](generated/) directory.
 
@@ -141,7 +141,7 @@ npm install --include=dev
     }
     ```
 
-2. Replace `(flie key)` and `(your PAT)` with the values you got from the instructions above.
+2. Replace `(file key)` and `(your PAT)` with the values you got from the instructions above.
 3. Click "Run and Debug" button on left nav, then run.
 
 
